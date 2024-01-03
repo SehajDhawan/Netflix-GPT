@@ -9,7 +9,6 @@ The features we will be adding to our project
   4.1 tailer of movie
   4.2 title/description
   4.3 movie suggestion
-5. netflix gpt 
+5. netflix gpt
   5.1 seearch bar
   5.2 movie suggestion
-  
