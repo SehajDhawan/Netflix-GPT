@@ -3,8 +3,18 @@ Netflix-Gpt
 create react app
 configure tailwind
 header
-
+routing
 Login form
+signup/signIN
+form validation
+useref hook
+firebase
+deployment
+create sign up user account
+
+SHOULD READ FIREBASE DOCUMENTATION
+ 
+
 The features we will be adding to our project
 1.Login/sign up
    1.1 sign up/sign up form
